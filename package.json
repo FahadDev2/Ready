@@ -1,0 +1,20 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "MERN",
+  "scripts": {
+    "server": "npm run dev --prefix backEnd",
+    "client": "npm start --prefix frontEnd"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahadDev2/Ready"
+  },
+  "author": "Fahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahadDev2/Ready/issues"
+  },
+  "homepage": "https://github.com/FahadDev2/Ready#readme"
+}
